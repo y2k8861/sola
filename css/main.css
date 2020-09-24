@@ -1,0 +1,93 @@
+	/*★★★★★★★섹션★★★★★★★*/
+
+
+	#section1 {width: 100%; height: 210px; background-color: bue; display: flex; justify-content: center; align-items: center;}
+	#sectionone {width: 100%; height: 200px; background-color: gay; display: flex; justify-content: center; align-items: center; flex-direction: column;}
+	#sectionone p {font-family: 'Oswald', sans-serif; font-size: 18px; color:#434383;}
+	#sectionone h1 {font-family: 'Oswald', sans-serif; font-size: 35px;}
+
+	/*★★★★★★★첫번째★★★★★★★*/
+
+	#section2 {width: 100%; height: 420px; background-color: hotpnk; display: flex; justify-content: center; align-items: center;}
+	#sectiontwo {width: 1260px; height: 400px; background-color: blak; display: flex; justify-content: space-around; align-items: center;}
+	.twobox {width: 290px; height: 370px; background-color: #fff; border-radius: 5px; display: flex;  flex-direction: column; align-items: center; justify-content: center;}
+	.twoiconbox {width: 80px; height: 80px; background-color: blak; margin: 0px 0 15px 0px;}
+	.twotextbox {width: 260px; height: 180px; background-color: yelow; display: flex; flex-direction: column; align-items: center;}
+	.twotextbox p {font-family: 'Oswald', sans-serif; font-size: 18px; margin: 10px 0 0 0px;}
+
+	/*★★★★★★★두번째★★★★★★★*/
+
+	#section0 {width: 100%; height: 300px; background-color: ble; display: flex; justify-content: center; align-items: center;}
+	#sectionzero {width: 100%; height: 200px; background-color: gay; display: flex; justify-content: center; align-items: center; flex-direction: column;}
+	#sectionzero p {font-family: 'Oswald', sans-serif; font-size: 18px; color:#434383;}
+	#sectionzero h1 {font-family: 'Oswald', sans-serif; font-size: 35px;}
+
+	/*★★★★★★★세번째★★★★★★★*/
+
+	#section3 {width: 100%; height: 500px; background-color: gry; display: flex; justify-content: center; align-items: center;}
+	#sectionthree {width: 1260px; height: 480px; background-color: pnk; display: flex; justify-content: space-around; align-items: center;}
+	#threeimgbox {width: 530px; height: 400px; background-color: yelow;}
+	#threeimgbox img {width: 100%; height: 400px;}
+
+	#threetextbox {width: 660px; height: 400px; background-color: yellw; display: flex; flex-direction: column; justify-content: center;}
+	#threetextbox h5 {font-family: 'Oswald', sans-serif; font-size: 18px; color:#434383;}
+	#threetextbox h1 {font-family: 'Oswald', sans-serif; font-size: 35px; margin: 0px 0 20px 0px;}
+	#threetextbox p {font-family: 'Oswald', sans-serif; font-size: 18px; margin: 10px 0 0 0px;}
+
+	/*★★★★★★★네번째★★★★★★★*/
+
+	#section4 {width: 100%; height: 500px; background-color: gay; display: flex; justify-content: center; align-items: center;}
+	#sectionfour {width: 1260px; height: 480px; background-color: pnk; display: flex; justify-content: space-around; align-items: center;}
+	#fourtextbox {width: 660px; height: 400px; background-color: yelow; display: flex; flex-direction: column; justify-content: center;}
+	#fourtextbox h5 {font-family: 'Oswald', sans-serif; font-size: 18px; color:#434383;}
+	#fourtextbox h1 {font-family: 'Oswald', sans-serif; font-size: 35px; margin: 0px 0 20px 0px;}
+	#fourtextbox p {font-family: 'Oswald', sans-serif; font-size: 18px; margin: 10px 0 0 0px;}
+
+	#fourimgbox {width: 530px; height: 400px; background-color: yelow;}
+	#fourimgbox img {width: 100%; height: 400px;}
+
+	/*★★★★★★★다섯번째★★★★★★★*/
+
+	#section5 {width: 100%; height: 300px; background-color: bue; display: flex; justify-content: center; align-items: center;}
+	#sectionfive {width: 100%; height: 200px; background-color: gay; display: flex; justify-content: center; align-items: center; flex-direction: column;}
+	#sectionfive p {font-family: 'Oswald', sans-serif; font-size: 18px; color:#434383;}
+	#sectionfive h1 {font-family: 'Oswald', sans-serif; font-size: 35px;}
+
+	/*★★★★★★★여섯번째★★★★★★★*/
+
+	#section6 {width: 100%; height: 350px; background-color: yelow; display: flex; justify-content: center; align-items: center;}
+	#sectionsix {width: 1260px; height: 340px; background-color: rd; display: flex; justify-content: space-around; align-items: center;}
+	.sixbox {width: 280px; height: 330px; background-color: transparent; border-radius: 5px; border: 1px solid #ddd; display: flex; flex-direction: column; justify-content: center; align-items: center;}
+	.sixbox #siximgbox1 {width: 250px; height: 230px; background-color: blue; margin: 0px 0 15px 0px;}
+	.sixbox #sixtextbox1 {width: 250px; height: 50px; background-color: ble; display: flex; justify-content: center; align-items: center;}
+	.sixbox #sixtextbox1 p {font-family: 'Oswald', sans-serif; font-size: 20px; font-weight: bold;}
+
+	.sixbox #siximgbox2 {width: 250px; height: 230px; background-color: blue; margin: 0px 0 15px 0px;}
+	.sixbox #sixtextbox2 {width: 250px; height: 50px; background-color: ble; display: flex; justify-content: center; align-items: center;}
+	.sixbox #sixtextbox2 p {font-family: 'Oswald', sans-serif; font-size: 20px; font-weight: bold;}
+
+	.sixbox #siximgbox3 {width: 250px; height: 230px; background-color: blue; margin: 0px 0 15px 0px;}
+	.sixbox #sixtextbox3 {width: 250px; height: 50px; background-color: ble; display: flex; justify-content: center; align-items: center;}
+	.sixbox #sixtextbox3 p {font-family: 'Oswald', sans-serif; font-size: 20px; font-weight: bold;}
+
+	.sixbox #siximgbox4 {width: 250px; height: 230px; background-color: blue; margin: 0px 0 15px 0px;}
+	.sixbox #sixtextbox4 {width: 250px; height: 50px; background-color: ble; display: flex; justify-content: center; align-items: center;}
+	.sixbox #sixtextbox4 p {font-family: 'Oswald', sans-serif; font-size: 20px; font-weight: bold;}
+
+	/*★★★★★★★일곱번째★★★★★★★*/
+
+	#section7 {width: 100%; height: 300px; background-color: bue; display: flex; justify-content: center; align-items: center;}
+	#sectionseven {width: 100%; height: 200px; background-color: gay; display: flex; justify-content: center; align-items: center; flex-direction: column;}
+	#sectionseven p {font-family: 'Oswald', sans-serif; font-size: 18px; color:#434383;}
+	#sectionseven h1 {font-family: 'Oswald', sans-serif; font-size: 35px;}
+
+	/*★★★★★★★여덟번째★★★★★★★*/
+
+	#section8 {width: 100%; height: 750px; background-color: yellw; display: flex; justify-content: center; align-items: center;}
+	#sectioneate {width: 1260px; height: 680px; background-color: rd; display: flex; justify-content: space-around; align-items: center;}
+	#eateimgbox {width: 600px; height: 500px; background-color: gry;}
+	iframe {width: 100%; height: 500px;}
+
+	#eatetextbox {width: 450px; height: 600px; background-color: gry; display: flex; flex-direction: column; justify-content: center;}	
+	#eatetextbox h3 {font-family: 'Oswald', sans-serif; font-size: 50px; color:#434383;}
+	#eatetextbox p {font-family: 'Oswald', sans-serif; font-size: 18px; margin: 15px 0 0 0px;}
