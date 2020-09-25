@@ -1,4 +1,21 @@
 .inner {
     width:1200px;
+    margin: 0px auto 100px;
+}
+
+.inner .btn-box .down-btn {
+    display:block;
+    width:200px;
+    height: auto;
     margin: 0 auto;
+    text-align: center;
+    padding: 10px 0;
+    border:2px solid #434383;
+    color:#434383;
+}
+
+.inner .btn-box .down-btn:hover {
+    color:#FFF;
+    background-color: #434383;
+    transition: all 0.3s ease-in-out;
 }
